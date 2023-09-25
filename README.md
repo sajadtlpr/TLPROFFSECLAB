@@ -74,6 +74,6 @@ Copyright © [2023-24] [TlprOrganisation]
 ## Follow Us :-
 <a href="https://github.com/sajadtlpr"><img title="Github" src="https://img.shields.io/badge/GitHub-sajadtlpr-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/sajad.tlpr/)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](sajadtlpr.github.io/in/)
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://sajadtlpr.github.io/in/)
 
 
