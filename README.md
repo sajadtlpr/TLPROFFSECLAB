@@ -13,10 +13,6 @@
     <img alt="Written In" src="https://img.shields.io/badge/Written%20In-python-yellow?style=flat-square">
 </p>
 
-<p align="center">
-    <a href="https://telegram.me/TLPRPFSECLAB"><img title="Tool-Name" src="https://img.shields.io/badge/Tool_Name-TLPR-OFFSEC-LAB-green.svg"></a>
-    <a href="https://telegram.me/TLPR"><img>OFFSECLAB title="telegram" src="https://img.shields.io/badge/Telegram-TLPROFFSECLAB-green.svg"></a>
-</p>
 
 "Optimize Your Termux Setup for Android Hacking with an All-in-One Solution, Empowering You for a Diverse Range of Tasks. This Comprehensive Tool is Crafted to Enhance Your Hacking Experience, Offering a Versatile Environment for Executing Various Operations. Furthermore, It Provides Essential Support for Resolving Common Errors and Termux-Related Issues, Ensuring a Fluid and Effortless Hacking Experience on Your Android Device."
 ## Why Choose This Tool?
